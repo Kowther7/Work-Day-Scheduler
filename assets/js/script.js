@@ -16,7 +16,8 @@ $(document).ready(function () {
     var text = $(this).siblings().eq(1).val();
     var time = $(this).siblings().eq(0).text();
     console.log(time, text);
-    localStorage.setItem(time, text);
+    localStorage.setItem(time, text); 
+    console.log(this);
   });
 
   // TODO: Add code to apply the past, present, or future class to each time
