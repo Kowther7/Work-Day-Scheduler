@@ -20,7 +20,7 @@ This is a basic calendar application that enables users to store events througho
 6. This action should result in the project's web page being displayed in a new window within your default web browser.
 
 ## Screenshot 
-<img width="1917" alt="image" src= ""> 
+<img width="1917" alt="image" src= "https://github.com/Kowther7/Work-Day-Scheduler/blob/main/assets/images/work-clander-screenshot.png"> 
 
 ## link to deployed website 
  https://kowther7.github.io/Work-Day-Scheduler/
